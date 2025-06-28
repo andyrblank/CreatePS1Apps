@@ -18,4 +18,6 @@ Before running this tool, ensure your OPL folder contains the following:
 - `POPS/[ID].[Title].VCD` files (your PS1 games, one per game, in VCD format)
 - `list.csv` (exported from [OPL Manager](https://oplmanager.com/), must include correct IDs and Titles)
 
-### Example Folder Structure
+### Disclaimer
+
+I am not responsible for any issues that arise from using this tool. Use at your own risk. Always back up your OPL folder before making changes.
