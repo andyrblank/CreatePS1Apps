@@ -1,4 +1,4 @@
-# CreatePS1Apps
+# OPLPS1AppUtility
 
 A utility to automate the creation of OPL (Open PS2 Loader) Apps for PS1 games using [Popstarter](https://www.psx-place.com/threads/popstarter.19139/) and a `list.csv` game list exported from the [OPL Manager](https://oplmanager.com/) program.
 
