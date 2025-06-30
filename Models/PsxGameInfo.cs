@@ -3,6 +3,9 @@ using Newtonsoft.Json;
 
 public class PsxGameInfo
 {
+    [JsonConstructor]
+    public PsxGameInfo() { }
+
     [JsonProperty("redump_name")]
     public string? RedumpName { get; set; }
 
