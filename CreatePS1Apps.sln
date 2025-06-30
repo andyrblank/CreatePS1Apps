@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePS1Apps", "CreatePS1Apps.csproj", "{A1B2C3D4-E5F6-1234-5678-90ABCDEF1234}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPLPS1AppUtility", "OPLPS1AppUtility.csproj", "{A1B2C3D4-E5F6-1234-5678-90ABCDEF1234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,5 +17,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF097F7-F2AD-4F1C-B0F7-E3C2AB1F57FF}
 	EndGlobalSection
 EndGlobal
